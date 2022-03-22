@@ -1,0 +1,484 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": 1001,
+      "currency": "CA",
+      "name": "ARWA interchangeable sectional sofa-bed with storage",
+      "description": "The Arwa interchangeable sectional sofa-bed with storage is a convenient beauty. Sturdy and plush, the cushioned sits an eucalyptus wood frame. Arwa is the perfect addition to any home and is as practical as it is charming.",
+      "key": 123,
+      "active": true,
+      "date": "2021-05-19T07:22Z",
+      "url": "https://www.structube.com/en_ca/arwa-interchangeable-sectional-sofabed-with-storage-67-25-78?pid=25458",
+      "img": "https://www.structube.com/cdn-cgi/image/width=700,height=542.8888888888888,fit=pad,background=%23f2f2f2/media/catalog/product/0/1/01-67.25.78.62_modularsofabed_arwa.jpg",
+      "category": "furniture",
+      "seller": "Structube",
+      "likes": [
+        "dd99bb54-b012-4813-99a3-8b6bc46dd8ec",
+        "1e5c029d-440e-4edf-af0e-205f29a32699",
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "5b15562e-8cad-4f84-80a0-8894b0ae54fa"
+      ],
+      "views": [
+        "dd99bb54-b012-4813-99a3-8b6bc46dd8ec",
+        "1e5c029d-440e-4edf-af0e-205f29a32699",
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "6cc073a1-983c-4dec-897b-fec82c0a8327",
+        "cf497c4c-9e29-42b2-b808-4cd62ea9f206",
+        "9110f1ca-45b6-4a55-8cc8-8a1acc9f2e4b"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "price": 2000,
+      "currency": "CA",
+      "name": "Apple MacBook Air 13.3 w/ Touch ID (Fall 2020) - Space Grey (Apple M1 Chip / 256GB SSD / 8GB RAM) - En",
+      "description": "Apple’s thinnest and lightest notebook gets supercharged with the Apple M1 chip. Tackle your projects with the blazing-fast 8-core CPU. Take graphics-intensive apps and games to the next level with a 7-core GPU. Accelerate machine-learning tasks with the 16-core Neural Engine. All with a silent, fanless design and the longest battery life ever -- up to 18 hours",
+      "key": 12344,
+      "active": true,
+      "date": "2020-06-19T07:22Z",
+      "url": "https://www.bestbuy.ca/en-ca/product/apple-macbook-air-13-3-w-touch-id-fall-2020-space-grey-apple-m1-chip-256gb-ssd-8gb-ram-en/15136919",
+      "img": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/151/15136/15136919.jpg",
+      "category": "electronics",
+      "seller": "BestBuy",
+      "likes": [
+        "dd99bb54-b012-4813-99a3-8b6bc46dd8ec",
+        "1e5c029d-440e-4edf-af0e-205f29a32699",
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "5b15562e-8cad-4f84-80a0-8894b0ae54fa"
+      ],
+      "views": [
+        "1e5c029d-440e-4edf-af0e-205f29a32699",
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "35efdc3f-2375-4fd5-ba25-9f73dbab8959",
+        "e026e31f-f235-4fa0-a369-c4e57f1c12b5",
+        "2783a012-4834-4c57-bbb4-1fafe1dc3f32",
+        "23c428e6-3dff-462c-a02f-dedf3b754206"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "price": 799,
+      "currency": "CA",
+      "name": "MACEDONIA concrete and mango wood dining table 220 cm",
+      "description": "Macedonia is no ordinary table. From a far this wood dining table is elegant and sturdy, but if you take a closer look, you’ll discover the tabletop features a beautiful embedded concrete slab. In addition to its beautiful figure, its wooden base is made of sustainable sourced mango wood and the base is masterfully handcrafted, making each table subtly one of a kind. Macedonia is sure to become the focal point in your dining room. You’ll enjoy this masterpiece for years to come.",
+      "key": 12333,
+      "active": true,
+      "date": "2020-05-19T07:22Z",
+      "url": "https://www.structube.com/en_ca/macedonia-concrete-and-mango-wood-dining-table-220-cm-86-39-76?pid=26678",
+      "img": "https://www.structube.com/cdn-cgi/image/width=700,height=542.8888888888888,fit=pad,background=%23f2f2f2/media/catalog/product/0/1/01-86.39.76.30_dinningtable_macedonia.jpg",
+      "category": "furniture",
+      "seller": "Structube",
+      "likes": [
+        "dd99bb54-b012-4813-99a3-8b6bc46dd8ec",
+        "f0fe5060-4acd-41b0-9496-cb8fa88e3d19",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "views": [
+        "1e5c029d-440e-4edf-af0e-205f29a32699",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "5b15562e-8cad-4f84-80a0-8894b0ae54fa",
+        "6cc073a1-983c-4dec-897b-fec82c0a8327"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "price": 8000,
+      "currency": "CA",
+      "name": "Acer Predator Orion 3000 Gaming PC (Intel Ci7-10700/2TB HDD/512GB SSD/16GB RAM/NVIDIA RTX 2070 Super)",
+      "description": "Take your gaming to the next level with the Acer Predator Orion 3000 PC. Powered by the Intel Core i7-10700 processor and 16 GB RAM, this gaming rig gives you an authentic, immersive experience while playing visual-rich games. Its Killer E2600 Gigabit Ethernet port and Wi-Fi 6 provide fast and reliable network access for seamless online gaming",
+      "key": 1238,
+      "active": true,
+      "date": "2020-04-19T07:22Z",
+      "url": "https://www.structube.com/en_ca/deskati-handcrafted-coffee-table-91-cm-23-46-76?pid=22945",
+      "img": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/147/14760/14760372.jpg",
+      "category": "electronics",
+      "seller": "BestBuy",
+      "likes": [
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "5b15562e-8cad-4f84-80a0-8894b0ae54fa"
+      ],
+      "views": [
+        "1e5c029d-440e-4edf-af0e-205f29a32699",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "price": 700,
+      "currency": "CA",
+      "name": "ROSA accent table 38cm",
+      "description": "Add a dash of Art Deco glamour to your living space with Rosa, a beautiful circular table made of aluminum. Rosa’s small scale is perfect for placement beside a sofa, while its metallic finish (available in gold or silver) reflects the light. Try this dazzling accent piece in the bedroom, dining room and office, too",
+      "key": 1239,
+      "active": true,
+      "date": "2020-03-19T07:22Z",
+      "url": "https://www.structube.com/en_ca/rosa-accent-table-38cm-19-44-10?pid=22592",
+      "img": "https://www.structube.com/cdn-cgi/image/width=700,height=542.8888888888888,fit=pad,background=%23f2f2f2/media/catalog/product/0/1/01-19.44.10.30_accent-table_rosa.jpg",
+      "category": "furniture",
+      "seller": "Structube",
+      "likes": [
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "views": [
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "6d6e203d-c4d1-43f2-9b4d-cc641b0e9794",
+        "98978877-0715-4dc2-9db7-e16833ffff53"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "price": 328,
+      "currency": "CA",
+      "name": "Acer Convertible Chromebook 2in1 4GB 32GB 11.6 Touchscreen Chrome OS Silver",
+      "description": "The stylish Chromebook Spin 311 easily transforms into anything you need it to be—thanks to its versatile, 360° Hinge that lets you rotate it to any angle to create a Notebook, stand-up Display, Tent or Tablet. This super-cool functionality allows you to take it anywhere and use it everywhere! The awesome features on this touch Chromebook with HD display include a wide-angle view Webcam—supporting HDR imaging—that enhances face-to-face chats and video conference experiences.",
+      "key": 1235,
+      "active": true,
+      "date": "2019-03-19T07:22Z",
+      "url": "https://www.bestbuy.ca/en-ca/product/acer-convertible-chromebook-2in1-4gb-32gb-11-6-touchscreen-chrome-os-silver/15046676",
+      "img": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/150/15046/15046676.jpg",
+      "category": "electronics",
+      "seller": "BestBuy",
+      "likes": [
+        "1e5c029d-440e-4edf-af0e-205f29a32699",
+        "f0fe5060-4acd-41b0-9496-cb8fa88e3d19",
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "views": [
+        "1e5c029d-440e-4edf-af0e-205f29a32699",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "price": 400,
+      "currency": "CA",
+      "name": "CAREY bentwood armchair with ottoman",
+      "description": "The Carey armchair with matching ottoman features modern elm bentwood and ash veneer panels. Its plush padding with soft cotton blend cushion cover hugs your body, perfect for reading a book or relaxing.",
+      "key": 123,
+      "active": true,
+      "date": "2018-03-19T07:22Z",
+      "url": "https://www.structube.com/en_ca/carey-bentwood-armchair-with-ottoman-41-21-30?pid=24176",
+      "img": "https://www.structube.com/cdn-cgi/image/width=700,height=542.8888888888888,fit=pad,background=%23f2f2f2/media/catalog/product/0/1/01-41.21.30.95_armchairwithottoman_carey.jpg",
+      "category": "furniture",
+      "seller": "Structube",
+      "likes": [
+        "f0fe5060-4acd-41b0-9496-cb8fa88e3d19",
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "5b15562e-8cad-4f84-80a0-8894b0ae54fa"
+      ],
+      "views": [
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "6cc073a1-983c-4dec-897b-fec82c0a8327"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "price": 8000,
+      "currency": "CA",
+      "name": "ASUS TUF Dash 15 15.6 Eclipse Grey",
+      "description": "Powerful and energy efficient, this ASUS TUF Dash F15 gaming laptop is designed with advanced hardware to enhance your gaming experience. It packs an Intel Core i7 quad-core processor and 16GB of DDR4 RAM so you can enjoy your favourite AAA titles to the fullest. Also included is an NVIDIA RTX 3060 graphics card with 6GB of memory so you can play at the highest graphics settings.",
+      "key": 12344,
+      "active": true,
+      "date": "2017-03-19T07:22Z",
+      "url": "https://www.bestbuy.ca/en-ca/product/asus-tuf-dash-15-15-6-gaming-laptop-eclipse-grey-intel-core-i7-11370h-512gb-ssd-16gb-ram-rtx-3060/15263760",
+      "img": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/152/15263/15263760.jpg",
+      "category": "electronics",
+      "seller": "BestBuy",
+      "likes": [
+        "f0fe5060-4acd-41b0-9496-cb8fa88e3d19",
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "views": [
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "price": 900,
+      "currency": "CA",
+      "name": "LORETTA velvet 3-seater sofa",
+      "description": "Boasting high arms (and high style!), the Loretta sofa brings you the best of Mid-Century Modern luxury. Covered in exquisite velvet, this showstopper makes your living room feel like a Parisian apartment, while its plush seat makes you feel like you are on cloud nine. Look no further for the poshest place to recline and relax: you’ll find it right in your own home.",
+      "key": 12333,
+      "active": true,
+      "date": "2016-03-19T07:22Z",
+      "url": "https://www.structube.com/en_ca/loretta-velvet-3seater-sofa-18-76-63?pid=22502",
+      "img": "https://www.structube.com/media/catalog/product/0/1/01-18.76.63.96_sofa_loretta_1.jpg",
+      "category": "furniture",
+      "seller": "Structube",
+      "likes": [
+        "f0fe5060-4acd-41b0-9496-cb8fa88e3d19",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "views": [
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "6cc073a1-983c-4dec-897b-fec82c0a8327"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "price": 379,
+      "currency": "CA",
+      "name": "Apple iPad (5TH GEN) 32GB - WiFi - Space Grey - Certified Refurbished",
+      "description": "Durable and portable. At just one pound and 7.5 mm thin, iPad is designed to go wherever you go. And it’s as durable as it is portable, with an aluminum unibody construction that delivers a reassuringly solid feel. Learn, play, surf, create. iPad gives you the incredible display, performance, and apps to do what you love to do. Anywhere. Easily. Magically. Fast, fluid performance. **May include Third Party Accessories**",
+      "key": 1238,
+      "active": true,
+      "date": "2015-03-19T07:22Z",
+      "url": "https://www.bestbuy.ca/en-ca/product/apple-ipad-5th-gen-32gb-wifi-space-grey-certified-refurbished/15586665",
+      "img": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/155/15586/15586665.jpeg",
+      "category": "electronics",
+      "seller": "BestBuy",
+      "likes": [
+        "5678c6b4-f631-4787-becd-de12545be68f",
+        "f0fe5060-4acd-41b0-9496-cb8fa88e3d19"
+      ],
+      "views": [
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "price": 500,
+      "currency": "CA",
+      "name": "TYE queen size bed",
+      "description": "Tye is the easy-going, beachy companion that will set your mind at ease. Its platform base makes choosing a mattress a breeze, and its gapped headboard and warm hue is sure to calm your bedroom and your mind.",
+      "key": 1239,
+      "active": true,
+      "date": "2012-03-19T07:22Z",
+      "url": "https://www.structube.com/en_ca/bedtye?pid=29028",
+      "img": "https://www.structube.com/cdn-cgi/image/width=700,height=542.8888888888888,fit=pad,background=%23f2f2f2/media/catalog/product/0/1/01-17.36.17.97_queenbed_tye_1.jpg",
+      "category": "furniture",
+      "seller": "Structube",
+      "likes": [
+        "f0fe5060-4acd-41b0-9496-cb8fa88e3d19",
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "views": [
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "6505a8a0-065c-40e3-83ad-87a6aea6af57"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "price": 279,
+      "currency": "CA",
+      "name": "Samsung Galaxy Tab A7 - Dark Grey",
+      "description": "Enjoy entertainment and productivity on the go with the Samsung Galaxy Tab A7 tablet. Featuring an ultra-wide 10.4 touchscreen display and Android 10, it presents movies, games, and websites in detailed clarity. It boasts a speedy octa-core processor, 32GB of built-in storage, and 3GB of RAM so you have everything you need to stream, browse, watch, read, and work.",
+      "key": 1235,
+      "active": true,
+      "date": "2013-03-19T07:22Z",
+      "url": "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-tab-a7-10-4-32gb-android-10-0-tablet-with-8-core-processor-dark-grey/14934422",
+      "img": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/149/14934/14934422.jpg",
+      "category": "electronics",
+      "seller": "BestBuy",
+      "likes": [
+        "1e5c029d-440e-4edf-af0e-205f29a32699",
+        "f0fe5060-4acd-41b0-9496-cb8fa88e3d19",
+        "719157b3-bcf0-45ea-947d-3d316d193d13",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3"
+      ],
+      "views": [
+        "1e5c029d-440e-4edf-af0e-205f29a32699",
+        "ba389edc-c211-4742-86d5-2fdf8e71a3f3",
+        "6cc073a1-983c-4dec-897b-fec82c0a8327"
+      ],
+      "priceHistory": [
+        {
+          "amount": 180,
+          "date": 1606861107000
+        },
+        {
+          "amount": 140,
+          "date": 1612217907000
+        },
+        {
+          "amount": 130,
+          "date": 1614637107000
+        }
+      ]
+    }
+  ],
+  "sellers": [
+    {
+      "id": 1,
+      "name": "Structube"
+    },
+    {
+      "id": 2,
+      "name": "BestBuy"
+    }
+  ],
+  "categories": [
+    {
+      "id": "furniture",
+      "name": "furniture"
+    },
+    {
+      "id": "electronics",
+      "name": "electronics"
+    }
+  ]
+}

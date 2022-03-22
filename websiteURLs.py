@@ -1,0 +1,6 @@
+baseUrl = 'http://localhost:3000/'
+allProducts_url = f'{baseUrl}products?&_limit=6&_page=1&price_gte=0&price_lte=10000'
+categoryFurniture_url = f'{baseUrl}products?&_limit=6&_page=1&category=furniture&price_gte=0&price_lte=10000'
+categoryElectronics_url = f'{baseUrl}products?&_limit=6&_page=1&category=electronics&price_gte=0&price_lte=10000'
+sellerStructube_url = f'{baseUrl}products?&_limit=6&_page=1&seller=Structube&price_gte=0&price_lte=10000'
+sellerBestBuy_url = f'{baseUrl}products?&_limit=6&_page=1&seller=BestBuy&price_gte=0&price_lte=10000'
