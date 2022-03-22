@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from baseDiscountAggreagator import BaseDiscountAggregatorTests
 import discountAggregatorMethods as methods
 
-with open('tests/productsData.json', 'r') as f:
+with open('productsData.json', 'r') as f:
     data = json.load(f)
 products = data['products']
 furniture_products_names = [x["name"] for x in products if x["category"] == 'furniture']
@@ -40,7 +40,6 @@ class FiltersTestCases(BaseDiscountAggregatorTests):
         print('---- Check if all furniture products are displayed when furniture filter is selected! ----')
         methods.go_to_all_products_and_check_furniture_in_filters(cls.driver)
         for p in furniture_products_names:
-            sleep(1)
             assert cls.driver.find_element(By.LINK_TEXT, p)
         sleep(1)
         print(f"All furniture products are displayed: {furniture_products_names}")
@@ -70,7 +69,6 @@ class FiltersTestCases(BaseDiscountAggregatorTests):
         print('---- Check if all electronics products are displayed when electronics filter is selected! ----')
         methods.go_to_all_products_and_check_electronics_in_filters(cls.driver)
         for p in electronics_product_names:
-            sleep(1)
             assert cls.driver.find_element(By.LINK_TEXT, p)
         sleep(1)
         print(f"All electronics products are displayed: {electronics_product_names}")
@@ -83,7 +81,6 @@ class FiltersTestCases(BaseDiscountAggregatorTests):
         cls.driver.find_element(By.XPATH, '//button[contains(.,"Search")]').click()
         if len(sofa_products) > 0:
             for p in sofa_products:
-                sleep(1)
                 assert cls.driver.find_element(By.LINK_TEXT, p)
             print(f'Sofa products found and displayed: {sofa_products}')
         else:
@@ -99,7 +96,6 @@ class FiltersTestCases(BaseDiscountAggregatorTests):
         cls.driver.find_element(By.XPATH, '//button[contains(.,"Search")]').click()
         if len(sofa_products) > 0:
             for p in sofa_products:
-                sleep(1)
                 assert cls.driver.find_element(By.LINK_TEXT, p)
             print(f'Sofa products found and displayed: {sofa_products}')
         else:
