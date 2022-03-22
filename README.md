@@ -7,6 +7,8 @@ I'm enroled in Canadian College of Technology and Business (CCTB) as Software Qu
 Recently as effort to learn ReactJs I have developed small application that aggregates and lists products that are on discounts, users can search product by categories filter by price, seller and name to help them find the product that they are looking for. This project was missing autmated UI tests, and this project adds them using Selenium WebDriver. This helps me learn how automated tests are done, help me learn what is required for an app to be QA automatable.
 More details on ReactJs application can be found on https://github.com/tanjag88/discounts-aggregator-ui.
 
+Video of all tests running can be found on https://youtu.be/65O3e16ffUs
+
 # Technology Stack
 
 ### Application Environment
